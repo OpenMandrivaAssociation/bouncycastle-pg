@@ -8,7 +8,7 @@ Release:       4%{?dist}
 Summary:       Bouncy Castle OpenPGP API
 # modified BZIP2 library org/bouncycastle/apache/bzip2 ASL 2.0
 License:       ASL 2.0 and MIT
-URL:           http://www.bouncycastle.org/
+URL:           https://www.bouncycastle.org/
 Source0:       http://www.bouncycastle.org/download/bcpg-%{archivever}.tar.gz
 Source1:       http://repo2.maven.org/maven2/org/bouncycastle/bcpg-jdk15on/%{version}/bcpg-jdk15on-%{version}.pom
 Source2:       bouncycastle-pg-%{version}-01-build.xml
